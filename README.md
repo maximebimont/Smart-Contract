@@ -1,9 +1,5 @@
 # REMIX DEFAULT WORKSPACE
 
-## Auteur
-- Maxime BIMONT
-- Membre du groupe O
-
 ## Remix default workspace is present when :
 - Remix loads for the very first time 
 - A new workspace is created with 'Default' template
