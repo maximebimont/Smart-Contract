@@ -1,12 +1,15 @@
 # REMIX DEFAULT WORKSPACE
 
-Remix default workspace is present when:
+## Auteur
+- Maxime BIMONT
+- Membre du groupe O
+
+## Remix default workspace is present when :
 - Remix loads for the very first time 
 - A new workspace is created with 'Default' template
 - There are no files existing in the File Explorer
 
-This workspace contains 3 directories:
-
+## This workspace contains 3 directories :
 - 'contracts': Holds three contracts with increasing levels of complexity.
 - 'scripts': Contains four typescript files to deploy a contract. It is explained below.
 - 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
